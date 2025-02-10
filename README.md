@@ -39,4 +39,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-*   Yousef Kaihair
+*   Yousef Kaihar
